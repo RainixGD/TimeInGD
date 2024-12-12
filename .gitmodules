@@ -1,0 +1,6 @@
+[submodule "libraries/cocos-headers"]
+	path = libraries/cocos-headers
+	url = git@github.com:RainixGD/cocos-headers-2.11.git
+[submodule "libraries/gd.h"]
+	path = libraries/gd.h
+	url = git@github.com:RainixGD/gd.h-2.11.git
