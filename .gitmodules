@@ -4,3 +4,6 @@
 [submodule "libraries/gd.h"]
 	path = libraries/gd.h
 	url = git@github.com:RainixGD/gd.h-2.11.git
+[submodule "libraries/minhook"]
+	path = libraries/minhook
+	url = git@github.com:RainixGD/minhook.git
