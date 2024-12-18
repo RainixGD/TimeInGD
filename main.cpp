@@ -10,7 +10,7 @@
 #include <Windows.h>
 
 using namespace cocos2d;
-
+// TODO rewrite this SUS code
 CCLabelBMFont* timeLabel;
 
 
